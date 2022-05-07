@@ -6,7 +6,7 @@
   "description": "Wikipedia Quick Search",
 
   "icons": {
-    "48": "dark_wiki_icon.png"
+    "48": "quick_search_icon.png"
   },
 
   "permissions": ["menus", "activeTab", "tabs"],

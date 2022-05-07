@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hirschan/Dark-Mode-Wikipedia/blob/master/dark_wiki_icon_large.png" width="150"/>
+  <img src="https://github.com/hirschan/Dark-Mode-Wikipedia/blob/master/quick_search_icon_large.png" width="150"/>
 </p>
 
 <h3 align="center">Quick search for Wikipedia on Firefox</h3>
