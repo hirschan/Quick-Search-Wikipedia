@@ -4,7 +4,7 @@
 
 <h3 align="center">Quick search for Wikipedia on Firefox</h3>
 <p align="center">
-Highlight any text from any website, right-click and search on Wikipedia instantly!
+_Makes your life easier - highlight text, right-click and search on Wikipedia_
 </p>
 
 
@@ -13,7 +13,7 @@ Highlight any text from any website, right-click and search on Wikipedia instant
 </p>
 
 # About
-Enables quick search - highlight text from any website, right-click and search on Wikipedia.t
+Highlight text from any website, right-click and search on Wikipedia instantly.
 
 ## Installation
 TBA.
