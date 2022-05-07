@@ -1,0 +1,7 @@
+{
+    "menuItemSelectionLogger": {
+      "message": "Search '%s' on Wikipedia",
+      "description": "Title of context menu item that logs the selected text when clicked."
+    }
+  }
+  
