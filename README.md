@@ -4,7 +4,7 @@
 
 <h3 align="center">Quick search for Wikipedia on Firefox</h3>
 <p align="center">
-_Makes your life easier - highlight text, right-click and search on Wikipedia_
+Makes your life easier - highlight text, right-click and search on Wikipedia.
 </p>
 
 
@@ -25,7 +25,7 @@ Or:
 4. Select **manifest.json**
 
 ## Example
-<img src ="https://github.com/hirschan/Quick-Search-Wikipedia/blob/master/screenshots/quick_search.png" width="240">
+<img src ="https://github.com/hirschan/Quick-Search-Wikipedia/blob/master/screenshots/quick_search.png" width="350">
 
 ## Accesses
 This extension requires **two** accesses:
