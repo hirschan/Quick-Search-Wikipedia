@@ -5,18 +5,19 @@
 <h3 align="center">Quick search for Wikipedia on Firefox</h3>
 <p align="center">
 Makes your life easier - highlight text, right-click and search on Wikipedia.
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/quick-search-for-wikipedia/"><strong>Download »</strong></a>
 </p>
 
 
 <p align="center">
-<img src="https://img.shields.io/amo/users/dark-mode-for-wikipedia"/> <img src="https://img.shields.io/amo/dw/dark-mode-for-wikipedia"/> <img src="https://img.shields.io/github/issues/hirschan/Dark-Mode-Wikipedia"/>
+<img src="https://img.shields.io/github/issues/hirschan/Quick-Search-Wikipedia"/>
 </p>
 
 # About
 Highlight text from any website, right-click and search on Wikipedia instantly.
 
 ## Installation
-TBA.
+Can be added as an extension on [Firefox here](https://addons.mozilla.org/en-US/firefox/addon/quick-search-for-wikipedia/).
 
 Or:
 1. Download the repository
