@@ -10,6 +10,8 @@ Makes your life easier - highlight text, right-click and search on Wikipedia.
 
 
 <p align="center">
+<img src="https://img.shields.io/amo/users/quick-search-for-wikipedia"/>
+<img src="https://img.shields.io/amo/dw/quick-search-for-wikipedia"/>
 <img src="https://img.shields.io/github/issues/hirschan/Quick-Search-Wikipedia"/>
 </p>
 
