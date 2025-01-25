@@ -33,8 +33,8 @@ This extension requires **two** accesses:
 
 | Access | Description |
 |---|---|
-| _Access data for all websites_ | In order to use the [quick search](https://github.com/hirschan/Dark-Mode-Wikipedia/issues/18) function this extension needs to know what text you are highlighting on any given website. Highlighted text is being accessed from `contentScript.js` and sends it as a variable to `background.js` to process. |
-| _Access browser tabs_ | `background.js` needs to access browser tabs in order to open a new Wikipedia tab when using the [quick search](https://github.com/hirschan/Dark-Mode-Wikipedia/issues/18) function. |
+| _Access data for all websites_ | In order to use the quick search function this extension needs to know what text you are highlighting on any given website. Highlighted text is being accessed from `contentScript.js` and sends it as a variable to `background.js` to process. |
+| _Access browser tabs_ | `background.js` needs to access browser tabs in order to open a new Wikipedia tab when using the quick search function. |
 
 ## Buy me a coffee ☕
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hirschan)
